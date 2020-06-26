@@ -1,4 +1,4 @@
-# EjerciciosClase
+# Ejercicios Clase Modelos II
 
 Yeimer Serrano Navarro
 
